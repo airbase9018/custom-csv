@@ -1,8 +1,8 @@
 {
-    "name": "goodby/csv",
-    "description": "CSV import/export library",
+    "name": "airbase9018/custom-csv",
+    "description": "Test CSV import/export library from Goodby/CSV",
     "keywords": ["csv", "import", "export"],
-    "homepage": "https://github.com/goodby/csv",
+    "homepage": "https://github.com/airbase9018/custom-csv",
     "license": "MIT",
     "authors": [
         {
